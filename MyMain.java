@@ -7,7 +7,6 @@ package caixeiroviajantec;
 
 /**
  *
- * @author Alexandre
  */
 public class MyMain {
 
